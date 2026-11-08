@@ -23,6 +23,9 @@
 - [Furnace Replacement Boulder](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/furnace-replacement-boulder/): Furnace Replacement Boulder: get clear guidance on your home's heating needs from a local HVAC team. Call Comfort Zone in Boulder to discuss next steps.
 - [Emergency HVAC Repair Boulder](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/emergency-hvac-repair-boulder/): Emergency HVAC Repair Boulder: get help when heating or cooling stops, with same-day and emergency service. Call Comfort Zone in Boulder today.
 
+## Newsroom
+- [Comfort Zone Heating & Air Conditioning Shares Boulder HVAC Contractor Guide](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/news/2026-11-08-comfort-zone-heating-air-conditioning-shares/): Comfort Zone Heating & Air Conditioning published a guide, YouTube video, podcast episode and SoundCloud audio version about HVAC contractors in Boulder. (2026-11-08)
+
 ## Pages
 - [HVAC Contractor in Boulder, Colorado](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/): Get attentive HVAC and AC repair service from a local team serving Boulder, with same-day and emergency service available. Call +1720-790-4505.
 - [About Comfort Zone Heating & Air Conditioning](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/about/): About Comfort Zone Heating & Air Conditioning, Boulder.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/news/rss.xml)
 - [Main resource site](https://comfort-zone-boulder-hvac.localbusinesses1.chatgpt.site)
