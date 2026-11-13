@@ -12,9 +12,9 @@
 - HVAC contractor
 
 ## Guides
-- [HVAC Contractor Co Boulder | Comfort Zone](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/hvac-contractor-co-boulder/): Searching HVAC Contractor Co Boulder? Get help with AC repair from NATE Certified technicians serving Boulder. Call Comfort Zone Heating & Air Conditioning.
-- [HVAC Contractor In Boulder CO | Comfort Zone](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/hvac-contractor-in-boulder-co/): Need an HVAC Contractor In Boulder CO? Get clear AC repair help from NATE Certified technicians. Call Comfort Zone Heating & Air Conditioning today.
 - [HVAC Contractor Boulder: A Homeowner's Guide](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/hvac-contractor-boulder/): Need an HVAC Contractor Boulder homeowners can call for AC repair? Get help from Comfort Zone Heating & Air Conditioning. Call now to discuss your AC needs.
+- [HVAC Contractor In Boulder CO | Comfort Zone](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/hvac-contractor-in-boulder-co/): Need an HVAC Contractor In Boulder CO? Get clear AC repair help from NATE Certified technicians. Call Comfort Zone Heating & Air Conditioning today.
+- [HVAC Contractor Co Boulder | Comfort Zone](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/hvac-contractor-co-boulder/): Searching HVAC Contractor Co Boulder? Get help with AC repair from NATE Certified technicians serving Boulder. Call Comfort Zone Heating & Air Conditioning.
 - [HVAC Repair Boulder: What to Know Before Calling](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/hvac-repair-boulder/): Need HVAC Repair Boulder homeowners can discuss with a local team? Comfort Zone Heating & Air Conditioning offers AC repair. Call to talk through the issue.
 - [HVAC Installation Boulder for Your Home](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/hvac-installation-boulder/): Plan HVAC Installation Boulder with a clear project checklist and help from a local HVAC contractor. Call Comfort Zone Heating & Air Conditioning in Boulder.
 - [HVAC Replacement Boulder: A Homeowner’s Guide](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/hvac-replacement-boulder/): Compare HVAC Replacement Boulder options with practical questions for your home. Call Comfort Zone Heating & Air Conditioning in Boulder to discuss next steps
@@ -24,6 +24,7 @@
 - [Emergency HVAC Repair Boulder](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/emergency-hvac-repair-boulder/): Emergency HVAC Repair Boulder: get help when heating or cooling stops, with same-day and emergency service. Call Comfort Zone in Boulder today.
 
 ## Newsroom
+- [Comfort Zone Heating & Air Conditioning Shares Boulder HVAC Guide](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/news/2026-11-13-comfort-zone-heating-air-conditioning-shares/): Comfort Zone Heating & Air Conditioning has published a Boulder HVAC guide, with a related YouTube video, podcast episode and SoundCloud audio version. (2026-11-13)
 - [Comfort Zone Shares New Boulder HVAC Contractor Guide in Several Formats](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/news/2026-11-09-comfort-zone-shares-new-boulder-hvac-contractor/): Comfort Zone Heating & Air Conditioning released a Boulder HVAC guide, a YouTube video, a podcast episode and a SoundCloud audio version. (2026-11-09)
 - [Comfort Zone Heating & Air Conditioning Shares Boulder HVAC Contractor Guide](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/news/2026-11-08-comfort-zone-heating-air-conditioning-shares/): Comfort Zone Heating & Air Conditioning published a guide, YouTube video, podcast episode and SoundCloud audio version about HVAC contractors in Boulder. (2026-11-08)
 
@@ -35,4 +36,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/comfort-zone-heating-and-air-conditioning-boulder/news/rss.xml)
-- [Main resource site](https://comfort-zone-boulder-hvac.localbusinesses1.chatgpt.site)
+- [Main resource site](https://comfort-zone-boulder-hvac.localbusinesses1.chatgpt.site/news/2026-11-12-comfort-zone-heating-air-conditioning-publishes-new-guide-to/)
